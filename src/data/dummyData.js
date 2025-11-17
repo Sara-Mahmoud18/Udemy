@@ -1,3 +1,26 @@
+// src/data/dummyData.js
+export const headerData = {
+  logo: "/images/udemy.png",
+  btn1: "Explore",
+  navItems: [
+    { label: "Plans & Pricing"},
+    { label: "Udemy Business"},
+    { label: "Teach on Udemy"},
+    { label: "🛒"},
+  ],
+  otherbtn: [
+    { label: "Log in"},
+    { label: "Sign up"},
+    { label: "🌎"}
+  ],
+  newLearnerOffer: {
+    text: "New-learner offer.",
+    extraText : " | Courses from €259.99. Click button to see savings",
+    timer: "Ends in 5h 56m 33s",
+    redeemButton: "Click to redeem"
+  }
+};
+
 
 export const trustedCompaniesData = {
   companies: [
