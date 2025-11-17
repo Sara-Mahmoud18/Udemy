@@ -1,4 +1,3 @@
-// src/data/dummyData.js
 export const headerData = {
   logo: "/images/udemy.png",
   btn1: "Explore",
@@ -20,6 +19,23 @@ export const headerData = {
     redeemButton: "Click to redeem"
   }
 };
+
+export const post = [
+  {
+    title: "Jump into learning — for less",
+    description:
+      "If you're new to Udemy, we've got good news: For a limited time, courses start at just €259.99 for new learners!",
+    ctaButton: "Sign up now",
+    image: "/images/img1.png",
+  },
+  {
+    title: "Subscribe to the best of Udemy",
+    description:
+      "With Personal Plan, you get access to 26,000+ of our top-rated courses in tech, business, and more.",
+    ctaButton: "Try it now",
+    image: "/images/img2.jpg",
+  },
+];
 
 
 export const trustedCompaniesData = {
