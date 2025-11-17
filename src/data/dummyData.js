@@ -2,19 +2,19 @@ export const headerData = {
   logo: "/images/udemy.png",
   btn1: "Explore",
   navItems: [
-    { label: "Plans & Pricing"},
-    { label: "Udemy Business"},
-    { label: "Teach on Udemy"},
-    { label: "🛒"},
+    { label: "Plans & Pricing" },
+    { label: "Udemy Business" },
+    { label: "Teach on Udemy" },
+    { label: "🛒" },
   ],
   otherbtn: [
-    { label: "Log in"},
-    { label: "Sign up"},
-    { label: "🌎"}
+    { label: "Log in" },
+    { label: "Sign up" },
+    { label: "🌎" }
   ],
   newLearnerOffer: {
     text: "New-learner offer.",
-    extraText : " | Courses from €259.99. Click button to see savings",
+    extraText: " | Courses from €259.99. Click button to see savings",
     timer: "Ends in 5h 56m 33s",
     redeemButton: "Click to redeem"
   }
@@ -36,6 +36,31 @@ export const post = [
     image: "/images/img2.jpg",
   },
 ];
+
+
+
+export const aiEraData = {
+  image: "/images/ai_era.png",
+  title: "Reimagine your career in the AI era",
+  description: "Future-proof your skills with Personal Plan. Get access to a variety of fresh content from real-world experts.",
+  features: [
+    {
+      label: "✨ Learn AI and more",
+    },
+    {
+      label: "🏆 Prep for a certification",
+    },
+    {
+      label: "👨‍🏫 Practice with AI coaching",
+    },
+    {
+      label: "💡 Advance your career",
+    }
+  ],
+  ctaButton: "Learn more",
+  pricing: "Starting at €204.00/month"
+};
+
 
 
 export const trustedCompaniesData = {
