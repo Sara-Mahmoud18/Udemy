@@ -37,7 +37,27 @@ export const post = [
   },
 ];
 
-
+export const skillsData = {
+  title: "Learn essential career and life skills",
+  description: "Udemy helps you build in-demand skills fast and advance your career in a changing job market.",
+  categories: [
+    {
+      name: "Generative AI",
+      image: "/images/sk1.webp",
+      learners: "1.7M+"
+    },
+    {
+      name: "IT-Certifications",
+      image: "/images/sk2.webp",
+      learners: "14M+"
+    },
+    {
+      name: "Data Science",
+      image: "/images/sk3.jpeg",
+      learners: "8.1M+"
+    }
+  ]
+};
 
 export const aiEraData = {
   image: "/images/ai_era.png",
@@ -60,7 +80,6 @@ export const aiEraData = {
   ctaButton: "Learn more",
   pricing: "Starting at €204.00/month"
 };
-
 
 
 export const trustedCompaniesData = {
