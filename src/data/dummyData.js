@@ -81,6 +81,76 @@ export const aiEraData = {
   pricing: "Starting at €204.00/month"
 };
 
+export const tabs = [
+  "Artificial Intelligence (AI)",
+  "Python",
+  "Microsoft Excel",
+  "AI Agents & Agentic AI",
+  "Digital Marketing",
+  "Amazon AWS",
+];
+
+export const coursesData = [
+  {
+    title: "The AI Engineer Course 2025: Complete AI Engineer Bootcamp",
+    tag: "Bestseller",
+    instructor: "365 Careers",
+    rating: 4.6,
+    reviews: "11,618",
+    price: "£349.99",
+    image: "/images/c1.png",
+    tab: "Artificial Intelligence (AI)"
+  },
+  {
+    title: "Intro to AI Agents and Agentic AI",
+    tag: "Bestseller",
+    instructor: "365 Careers",
+    rating: 4.4,
+    reviews: "1,647",
+    price: "£349.99",
+    image: "/images/c2.png",
+    tab: "Artificial Intelligence (AI)"
+  },
+  {
+    title: "The Complete Guide To AI Powered Salesforce Development",
+    instructor: "Mail Gerry",
+    rating: 4.8,
+    reviews: "83",
+    price: "£349.99",
+    image: "/images/c1.png",
+    tab: "Artificial Intelligence (AI)"
+  },
+  {
+    title: "Artificial Intelligence for Business + ChatGPT Prize [2025]",
+    tag: "Premium",
+    instructor: "Hadelin de Ponteves, Kirill Eremenko,…",
+    rating: 4.4,
+    reviews: "4,856",
+    price: "£719.99",
+    image: "/images/c2.png",
+    tab: "Artificial Intelligence (AI)"
+  },
+  {
+    title: "The AI Engineer Course 2025: Complete AI Engineer Bootcamp",
+    tag: "Bestseller",
+    instructor: "365 Careers",
+    rating: 4.6,
+    reviews: "11,618",
+    price: "£349.99",
+    image: "/images/c1.png",
+    tab: "Artificial Intelligence (AI)"
+  },
+  {
+    title: "Intro to AI Agents and Agentic AI",
+    tag: "Bestseller",
+    instructor: "365 Careers",
+    rating: 4.4,
+    reviews: "1,647",
+    price: "£349.99",
+    image: "/images/c2.png",
+    tab: "Artificial Intelligence (AI)"
+  },
+];
 
 export const trustedCompaniesData = {
   companies: [
